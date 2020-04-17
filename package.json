@@ -1,6 +1,6 @@
 {
   "name": "helix-grv-nextgen-canvas",
-  "version": "0.0.1",
+  "version": "1.0.1",
   "description": "Stencil Component Starter",
   "main": "dist/index.js",
   "module": "dist/index.mjs",
