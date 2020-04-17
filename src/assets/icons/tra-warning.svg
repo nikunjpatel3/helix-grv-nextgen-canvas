@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="44px" height="44px" viewBox="0 0 44 44" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 3.7.2 (28276) - http://www.bohemiancoding.com/sketch -->
+    <title>tra-warning</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="44px-Line" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="tra-warning"></g>
+        <path d="M43.836,38.451 L22.836,6.451 C22.467,5.888 21.533,5.888 21.164,6.451 L0.164,38.451 C-0.038,38.759 -0.055,39.152 0.12,39.475 C0.295,39.798 0.633,40 1,40 L43,40 C43.367,40 43.705,39.798 43.88,39.475 C44.055,39.152 44.038,38.759 43.836,38.451 L43.836,38.451 Z M2.853,38 L22,8.823 L41.147,38 L2.853,38 L2.853,38 Z" id="Shape" fill="#000000"></path>
+        <path d="M21.168,17.445 L11.168,32.445 C10.964,32.752 10.944,33.146 11.118,33.471 C11.292,33.796 11.631,34 12,34 L32,34 C32.369,34 32.708,33.797 32.882,33.472 C33.056,33.147 33.036,32.752 32.832,32.446 L22.832,17.446 C22.461,16.889 21.539,16.889 21.168,17.445 L21.168,17.445 Z M30.132,32 L13.868,32 L22,19.803 L30.132,32 L30.132,32 Z" id="Shape" fill="#000000"></path>
+    </g>
+</svg>

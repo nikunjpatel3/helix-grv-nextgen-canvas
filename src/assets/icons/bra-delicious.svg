@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="64px" height="64px" viewBox="0 0 64 64" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 3.7.2 (28276) - http://www.bohemiancoding.com/sketch -->
+    <title>soc-delicious</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="64px-Glyph" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="soc-delicious" fill="#000000">
+            <path d="M46,43 C46,45.752 43.752,48 40.998,48 L20.999,48 C18.247,48 16,45.752 16,42.997 L16,23 C16,20.245 18.247,18.003 21.001,18.003 L41.005,18 C43.755,18 46,20.252 46,23.002 L46,43 Z M31,6 C16.088,6 4,18.089 4,33 C4,47.911 16.088,60 31,60 C45.912,60 58,47.911 58,33 C58,18.089 45.912,6 31,6 L31,6 Z" id="Fill-28"></path>
+            <path d="M21.9971,20 C19.9801,20 18.0001,21.98 18.0001,23.995 L18.0001,33 L31.0001,33 L31.0001,20 L21.9971,20 Z" id="Fill-29"></path>
+            <path d="M30.9912,46 L39.9942,46 C42.0072,46 44.0002,44.011 44.0002,42.002 L44.0002,33 L31.0002,33 L30.9912,46 Z" id="Fill-30"></path>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="64px" height="64px" viewBox="0 0 64 64" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 3.7.2 (28276) - http://www.bohemiancoding.com/sketch -->
+    <title>gen-flag-3</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="64px-Line" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="gen-flag-3"></g>
+        <path d="M51.924,4.617 C51.769,4.243 51.404,4 51,4 L13,4 C12.448,4 12,4.447 12,5 L12,31 L12,59 C12,59.553 12.448,60 13,60 C13.552,60 14,59.553 14,59 L14,32 L51,32 C51.404,32 51.769,31.757 51.924,31.383 C52.079,31.009 51.993,30.579 51.707,30.293 L39.414,18 L51.707,5.707 C51.993,5.421 52.079,4.991 51.924,4.617 L51.924,4.617 Z M37.293,17.293 C36.902,17.684 36.902,18.316 37.293,18.707 L48.586,30 L14,30 L14,6 L48.586,6 L37.293,17.293 L37.293,17.293 Z" id="Shape" fill="#000000"></path>
+    </g>
+</svg>

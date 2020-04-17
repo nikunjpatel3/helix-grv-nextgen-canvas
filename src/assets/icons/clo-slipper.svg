@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="64px" height="64px" viewBox="0 0 64 64" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 3.7.2 (28276) - http://www.bohemiancoding.com/sketch -->
+    <title>clo-slipper</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="64px-Line" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="clo-slipper"></g>
+        <path d="M57.938,36.165 C57.029,29.208 45.097,21.334 35.764,20.039 C33.832,19.771 31.992,20.92 31.394,22.771 C30.112,26.749 26.532,36 21,36 L7,36 C5.346,36 4,37.346 4,39 L4,41 C4,42.654 5.346,44 7,44 L57,44 C58.654,44 60,42.654 60,41 L60,39 C60,37.675 59.131,36.562 57.938,36.165 L57.938,36.165 Z M33.298,23.385 C33.597,22.46 34.522,21.893 35.489,22.02 C44.332,23.247 54.702,30.516 55.884,36 L26.061,36 C29.688,33 32.047,27.266 33.298,23.385 L33.298,23.385 Z M58,41 C58,41.552 57.551,42 57,42 L7,42 C6.449,42 6,41.552 6,41 L6,39 C6,38.448 6.449,38 7,38 L57,38 C57.551,38 58,38.448 58,39 L58,41 L58,41 Z" id="Shape" fill="#000000"></path>
+    </g>
+</svg>

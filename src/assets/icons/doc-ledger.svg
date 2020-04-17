@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="64px" height="64px" viewBox="0 0 64 64" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 3.7.2 (28276) - http://www.bohemiancoding.com/sketch -->
+    <title>doc-ledger</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="64px-Line" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="doc-ledger"></g>
+        <path d="M12,60 L51,60 C51.553,60 52,59.552 52,59 L52,11 C52,10.448 51.553,10 51,10 L10,10 C10,8.897 10.897,8 12,8 L54,8 L54,55 C54,55.552 54.447,56 55,56 C55.553,56 56,55.552 56,55 L56,7 C56,6.448 55.553,6 55,6 L12,6 C9.794,6 8,7.794 8,10 L8,56 C8,58.206 9.794,60 12,60 L12,60 Z M38,12 L44,12 L44,34.586 L41.707,32.293 C41.316,31.902 40.684,31.902 40.293,32.293 L38,34.586 L38,12 L38,12 Z M10,12 L36,12 L36,37 C36,37.404 36.243,37.769 36.617,37.924 C36.99,38.078 37.42,37.993 37.707,37.707 L41,34.414 L44.293,37.707 C44.484,37.898 44.74,38 45,38 C45.129,38 45.259,37.975 45.383,37.924 C45.757,37.769 46,37.404 46,37 L46,12 L50,12 L50,58 L12,58 C10.897,58 10,57.103 10,56 L10,12 L10,12 Z" id="Shape" fill="#000000"></path>
+    </g>
+</svg>

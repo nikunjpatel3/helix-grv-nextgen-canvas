@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="64px" height="64px" viewBox="0 0 64 64" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 3.7.2 (28276) - http://www.bohemiancoding.com/sketch -->
+    <title>net-wifi-signal</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="64px-Line" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="net-wifi-signal"></g>
+        <path d="M5,58 C5.553,58 6,57.553 6,57 C6,29.981 27.981,8 55,8 C55.553,8 56,7.553 56,7 C56,6.447 55.553,6 55,6 C26.879,6 4,28.879 4,57 C4,57.553 4.447,58 5,58 L5,58 Z" id="Shape" fill="#000000"></path>
+        <path d="M55,22 C35.701,22 20,37.701 20,57 C20,57.553 20.447,58 21,58 C21.553,58 22,57.553 22,57 C22,38.804 36.804,24 55,24 C55.553,24 56,23.553 56,23 C56,22.447 55.553,22 55,22 L55,22 Z" id="Shape" fill="#000000"></path>
+        <path d="M55,38 C44.523,38 36,46.523 36,57 C36,57.553 36.447,58 37,58 C37.553,58 38,57.553 38,57 C38,47.626 45.626,40 55,40 C55.553,40 56,39.553 56,39 C56,38.447 55.553,38 55,38 L55,38 Z" id="Shape" fill="#000000"></path>
+        <path d="M52,50 C49.794,50 48,51.794 48,54 C48,56.206 49.794,58 52,58 C54.206,58 56,56.206 56,54 C56,51.794 54.206,50 52,50 L52,50 Z M52,56 C50.897,56 50,55.103 50,54 C50,52.897 50.897,52 52,52 C53.103,52 54,52.897 54,54 C54,55.103 53.103,56 52,56 L52,56 Z" id="Shape" fill="#000000"></path>
+    </g>
+</svg>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="64px" height="64px" viewBox="0 0 64 64" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 3.7.2 (28276) - http://www.bohemiancoding.com/sketch -->
+    <title>com-power</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="64px-Line" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="com-power"></g>
+        <path d="M32,25 L32,5 C32,4.447 31.553,4 31,4 C30.447,4 30,4.447 30,5 L30,25 C30,25.553 30.447,26 31,26 C31.553,26 32,25.553 32,25 L32,25 Z" id="Shape" fill="#000000"></path>
+        <path d="M54,37 C54,26.759 47.121,17.659 37.272,14.873 C36.746,14.718 36.187,15.03 36.038,15.562 C35.888,16.093 36.196,16.646 36.727,16.796 C45.72,19.342 52,27.649 52,37 C52,48.579 42.579,58 31,58 C19.421,58 10,48.579 10,37 C10,27.65 16.28,19.343 25.272,16.798 C25.803,16.648 26.112,16.095 25.961,15.564 C25.811,15.032 25.254,14.722 24.727,14.875 C14.879,17.661 8,26.76 8,37 C8,49.683 18.317,60 31,60 C43.683,60 54,49.683 54,37 L54,37 Z" id="Shape" fill="#000000"></path>
+    </g>
+</svg>

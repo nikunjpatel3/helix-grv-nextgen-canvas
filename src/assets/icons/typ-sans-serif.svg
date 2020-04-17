@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="64px" height="64px" viewBox="0 0 64 64" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 3.7.2 (28276) - http://www.bohemiancoding.com/sketch -->
+    <title>typ-sans-serif</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="64px-Line" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="typ-sans-serif"></g>
+        <path d="M50,6 L14,6 C10.691,6 8,8.691 8,12 C8,15.309 10.691,18 14,18 L26,18 L26,52 C26,55.309 28.691,58 32,58 C35.309,58 38,55.309 38,52 L38,18 L50,18 C53.309,18 56,15.309 56,12 C56,8.691 53.309,6 50,6 L50,6 Z M50,16 L37,16 C36.448,16 36,16.447 36,17 L36,52 C36,54.206 34.206,56 32,56 C29.794,56 28,54.206 28,52 L28,17 C28,16.447 27.552,16 27,16 L14,16 C11.794,16 10,14.206 10,12 C10,9.794 11.794,8 14,8 L50,8 C52.206,8 54,9.794 54,12 C54,14.206 52.206,16 50,16 L50,16 Z" id="Shape" fill="#000000"></path>
+    </g>
+</svg>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="44px" height="44px" viewBox="0 0 44 44" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 3.7.2 (28276) - http://www.bohemiancoding.com/sketch -->
+    <title>foo-ice-cream</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="44px-Glyph" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="foo-ice-cream" fill="#000000">
+            <path d="M29.9218,18.038 C31.1848,16.046 31.9998,13.476 31.9998,11.177 C31.9998,5.035 27.0658,0.038 20.9998,0.038 C14.9348,0.038 9.9998,5.035 9.9998,11.177 C9.9998,13.476 10.8158,16.046 12.0788,18.038 L29.9218,18.038 Z" id="Fill-136"></path>
+            <path d="M13.3427,20.038 L20.0397,43.314 C20.1627,43.743 20.5547,44.038 21.0007,44.038 C21.4457,44.038 21.8377,43.743 21.9607,43.314 L28.6577,20.038 L13.3427,20.038 Z" id="Fill-137"></path>
+        </g>
+    </g>
+</svg>

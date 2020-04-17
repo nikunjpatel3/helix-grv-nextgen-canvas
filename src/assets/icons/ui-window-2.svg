@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="64px" height="64px" viewBox="0 0 64 64" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 3.7.2 (28276) - http://www.bohemiancoding.com/sketch -->
+    <title>ui-window-2</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="64px-Line" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="ui-window-2"></g>
+        <path d="M56,10 L8,10 C5.794,10 4,11.794 4,14 L4,52 C4,54.206 5.794,56 8,56 L56,56 C58.206,56 60,54.206 60,52 L60,14 C60,11.794 58.206,10 56,10 L56,10 Z M8,12 L56,12 C57.103,12 58,12.897 58,14 L58,20 L6,20 L6,14 C6,12.897 6.897,12 8,12 L8,12 Z M6,52 L6,22 L24,22 L24,54 L8,54 C6.897,54 6,53.103 6,52 L6,52 Z M56,54 L26,54 L26,22 L58,22 L58,52 C58,53.103 57.103,54 56,54 L56,54 Z" id="Shape" fill="#000000"></path>
+        <circle id="Oval" fill="#000000" cx="24" cy="16" r="2"></circle>
+        <circle id="Oval" fill="#000000" cx="18" cy="16" r="2"></circle>
+        <circle id="Oval" fill="#000000" cx="12" cy="16" r="2"></circle>
+    </g>
+</svg>

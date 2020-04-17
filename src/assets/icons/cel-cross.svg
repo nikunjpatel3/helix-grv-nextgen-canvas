@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="64px" height="64px" viewBox="0 0 64 64" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 3.7.2 (28276) - http://www.bohemiancoding.com/sketch -->
+    <title>cel-cross</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="64px-Glyph" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="cel-cross" fill="#000000">
+            <polygon id="Fill-224" points="27 25.5869 29.586 23.0009 25.586 19.0009 23 21.5869"></polygon>
+            <polygon id="Fill-226" points="36.4141 19.001 23.0001 32.415 25.5861 35.001 39.0001 21.587"></polygon>
+            <polygon id="Fill-228" points="35 28.4151 32.414 31.0011 36.414 35.0011 39 32.4151"></polygon>
+            <path d="M25.5859,27.001 L20.5859,22.001 L8.9999,22.001 C8.4469,22.001 7.9999,22.448 7.9999,23.001 L7.9999,31.001 C7.9999,31.554 8.4469,32.001 8.9999,32.001 L20.5859,32.001 L25.5859,27.001 Z" id="Fill-230"></path>
+            <path d="M31,32.4151 L26,37.4151 L26,59.0011 C26,59.5541 26.447,60.0011 27,60.0011 L35,60.0011 C35.553,60.0011 36,59.5541 36,59.0011 L36,37.4151 L31,32.4151 Z" id="Fill-232"></path>
+            <path d="M53,22.001 L41.414,22.001 L36.414,27.001 L41.414,32.001 L53,32.001 C53.553,32.001 54,31.554 54,31.001 L54,23.001 C54,22.448 53.553,22.001 53,22.001" id="Fill-234"></path>
+            <path d="M31,21.5869 L36,16.5869 L36,7.0009 C36,6.4479 35.553,6.0009 35,6.0009 L27,6.0009 C26.447,6.0009 26,6.4479 26,7.0009 L26,16.5869 L31,21.5869 Z" id="Fill-236"></path>
+        </g>
+    </g>
+</svg>

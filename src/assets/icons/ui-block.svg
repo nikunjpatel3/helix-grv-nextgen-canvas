@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="44px" height="44px" viewBox="0 0 44 44" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 3.7.2 (28276) - http://www.bohemiancoding.com/sketch -->
+    <title>ui-block</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="44px-Glyph" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="ui-block" fill="#000000">
+            <path d="M2,22 C2,16.845 3.977,12.155 7.191,8.605 L35.395,36.809 C31.845,40.023 27.155,42 22,42 C10.972,42 2,33.028 2,22 M42,22 C42,27.155 40.023,31.845 36.809,35.395 L8.605,7.191 C12.155,3.977 16.845,2 22,2 C33.028,2 42,10.972 42,22 M22,0 C9.869,0 0,9.869 0,22 C0,34.131 9.869,44 22,44 C34.131,44 44,34.131 44,22 C44,9.869 34.131,0 22,0" id="Fill-22"></path>
+        </g>
+    </g>
+</svg>

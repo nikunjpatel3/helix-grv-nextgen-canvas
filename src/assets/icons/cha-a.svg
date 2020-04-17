@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="64px" height="64px" viewBox="0 0 64 64" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 3.7.2 (28276) - http://www.bohemiancoding.com/sketch -->
+    <title>cha-a</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="64px-Line" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="cha-a"></g>
+        <path d="M31,6 C16.112,6 4,18.112 4,33 C4,47.888 16.112,60 31,60 C45.888,60 58,47.888 58,33 C58,18.112 45.888,6 31,6 L31,6 Z M31,58 C17.215,58 6,46.785 6,33 C6,19.215 17.215,8 31,8 C44.785,8 56,19.215 56,33 C56,46.785 44.785,58 31,58 L31,58 Z" id="Shape" fill="#000000"></path>
+        <path d="M31.929,22.629 C31.777,22.249 31.409,22 31,22 C30.591,22 30.224,22.249 30.071,22.629 L22.071,42.629 C21.866,43.142 22.115,43.724 22.628,43.929 C23.142,44.134 23.722,43.885 23.928,43.371 L26.076,38 L35.922,38 L38.07,43.371 C38.227,43.763 38.602,44 38.999,44 C39.123,44 39.248,43.978 39.37,43.929 C39.883,43.724 40.132,43.142 39.927,42.629 L31.929,22.629 L31.929,22.629 Z M26.877,36 L31,25.692 L35.123,36 L26.877,36 L26.877,36 Z" id="Shape" fill="#000000"></path>
+    </g>
+</svg>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="64px" height="64px" viewBox="0 0 64 64" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 3.7.2 (28276) - http://www.bohemiancoding.com/sketch -->
+    <title>spo-ice-hockey</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="64px-Glyph" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="spo-ice-hockey" fill="#000000">
+            <path d="M23,59.999 L7,59.999 C6.448,59.999 6,59.551 6,58.999 L6,52.999 C6,52.447 6.448,51.999 7,51.999 L23,51.999 C23.552,51.999 24,52.447 24,52.999 L24,58.999 C24,59.551 23.552,59.999 23,59.999" id="Fill-75"></path>
+            <path d="M57,59.999 L42.158,59.999 C39.229,59.999 36.476,58.568 34.792,56.171 L4.182,12.574 C3.871,12.132 3.968,11.523 4.4,11.199 L8.4,8.199 C8.614,8.039 8.884,7.971 9.149,8.01 C9.414,8.05 9.651,8.194 9.809,8.411 L40.1,50.062 C40.943,51.221 42.355,51.841 43.777,51.685 L56.669,50.252 C57.517,50.158 58.366,50.43 59.001,50.999 C59.636,51.567 60,52.381 60,53.233 L60,56.999 C60,58.653 58.654,59.999 57,59.999" id="Fill-76"></path>
+        </g>
+    </g>
+</svg>

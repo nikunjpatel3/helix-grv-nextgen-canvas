@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="64px" height="64px" viewBox="0 0 64 64" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 3.7.2 (28276) - http://www.bohemiancoding.com/sketch -->
+    <title>fil-plus</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="64px-Line" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="fil-plus"></g>
+        <path d="M41,34 L32,34 L32,25 C32,24.448 31.552,24 31,24 C30.448,24 30,24.448 30,25 L30,34 L21,34 C20.448,34 20,34.448 20,35 C20,35.552 20.448,36 21,36 L30,36 L30,45 C30,45.552 30.448,46 31,46 C31.552,46 32,45.552 32,45 L32,36 L41,36 C41.552,36 42,35.552 42,35 C42,34.448 41.552,34 41,34 L41,34 Z" id="Shape" fill="#000000"></path>
+        <path d="M40.707,6.293 C40.52,6.105 40.265,6 40,6 L14,6 C11.794,6 10,7.794 10,10 L10,56 C10,58.206 11.794,60 14,60 L48,60 C50.206,60 52,58.206 52,56 L52,18 C52,17.735 51.895,17.48 51.707,17.293 L40.707,6.293 L40.707,6.293 Z M49.586,18 L42,18 C40.897,18 40,17.103 40,16 L40,8.414 L49.586,18 L49.586,18 Z M48,58 L14,58 C12.897,58 12,57.103 12,56 L12,10 C12,8.897 12.897,8 14,8 L38,8 L38,16 C38,18.206 39.794,20 42,20 L50,20 L50,56 C50,57.103 49.103,58 48,58 L48,58 Z" id="Shape" fill="#000000"></path>
+    </g>
+</svg>

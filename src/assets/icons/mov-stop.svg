@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="64px" height="64px" viewBox="0 0 64 64" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 3.7.2 (28276) - http://www.bohemiancoding.com/sketch -->
+    <title>vid-stop</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="64px-Line" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="vid-stop"></g>
+        <path d="M39.5,22 L22.5,22 C21.121,22 20,23.121 20,24.5 L20,41.5 C20,42.879 21.121,44 22.5,44 L39.5,44 C40.879,44 42,42.879 42,41.5 L42,24.5 C42,23.121 40.879,22 39.5,22 L39.5,22 Z M40,41.5 C40,41.775 39.775,42 39.5,42 L22.5,42 C22.225,42 22,41.775 22,41.5 L22,24.5 C22,24.225 22.225,24 22.5,24 L39.5,24 C39.775,24 40,24.225 40,24.5 L40,41.5 L40,41.5 Z" id="Shape" fill="#000000"></path>
+        <path d="M31,6 C16.112,6 4,18.112 4,33 C4,47.888 16.112,60 31,60 C45.888,60 58,47.888 58,33 C58,18.112 45.888,6 31,6 L31,6 Z M31,58 C17.215,58 6,46.785 6,33 C6,19.215 17.215,8 31,8 C44.785,8 56,19.215 56,33 C56,46.785 44.785,58 31,58 L31,58 Z" id="Shape" fill="#000000"></path>
+    </g>
+</svg>

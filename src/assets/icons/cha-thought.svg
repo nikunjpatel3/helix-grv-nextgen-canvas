@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="64px" height="64px" viewBox="0 0 64 64" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 3.7.2 (28276) - http://www.bohemiancoding.com/sketch -->
+    <title>spe-thought</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="64px-Line" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="spe-thought"></g>
+        <path d="M39,6 C27.42,6 18,12.28 18,20 C18,27.72 27.42,34 39,34 C50.58,34 60,27.72 60,20 C60,12.28 50.58,6 39,6 L39,6 Z M39,32 C28.523,32 20,26.617 20,20 C20,13.383 28.523,8 39,8 C49.477,8 58,13.383 58,20 C58,26.617 49.477,32 39,32 L39,32 Z" id="Shape" fill="#000000"></path>
+        <path d="M26.5,48 C32.388,48 37,44.925 37,41 C37,37.075 32.388,34 26.5,34 C20.612,34 16,37.075 16,41 C16,44.925 20.612,48 26.5,48 L26.5,48 Z M26.5,36 C31.107,36 35,38.29 35,41 C35,43.71 31.107,46 26.5,46 C21.893,46 18,43.71 18,41 C18,38.29 21.893,36 26.5,36 L26.5,36 Z" id="Shape" fill="#000000"></path>
+        <path d="M13,56 C16.925,56 20,53.804 20,51 C20,48.196 16.925,46 13,46 C9.075,46 6,48.196 6,51 C6,53.804 9.075,56 13,56 L13,56 Z M13,48 C15.71,48 18,49.374 18,51 C18,52.626 15.71,54 13,54 C10.29,54 8,52.626 8,51 C8,49.374 10.29,48 13,48 L13,48 Z" id="Shape" fill="#000000"></path>
+    </g>
+</svg>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="64px" height="64px" viewBox="0 0 64 64" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 3.7.2 (28276) - http://www.bohemiancoding.com/sketch -->
+    <title>ios-airdrop</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="64px-Line" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="ios-airdrop"></g>
+        <path d="M8,42 L24.98,42 L13.686,54 L50.315,54 L39.021,42 L56,42 L56,12 L8,12 L8,42 L8,42 Z M18.314,52 L32,37.459 L45.686,52 L18.314,52 L18.314,52 Z M10,14 L54,14 L54,40 L37.138,40 L32,34.541 L26.862,40 L10,40 L10,14 L10,14 Z" id="Shape" fill="#000000"></path>
+    </g>
+</svg>

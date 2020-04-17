@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="44px" height="44px" viewBox="0 0 44 44" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 3.7.2 (28276) - http://www.bohemiancoding.com/sketch -->
+    <title>cel-crosses</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="44px-Line" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="cel-crosses"></g>
+        <path d="M6,26 L1,26 C0.448,26 0,26.448 0,27 C0,27.552 0.448,28 1,28 L6,28 L6,43 C6,43.552 6.448,44 7,44 C7.552,44 8,43.552 8,43 L8,28 L13,28 C13.552,28 14,27.552 14,27 C14,26.448 13.552,26 13,26 L8,26 L8,21 C8,20.448 7.552,20 7,20 C6.448,20 6,20.448 6,21 L6,26 L6,26 Z" id="Shape" fill="#000000"></path>
+        <path d="M21,0 C20.448,0 20,0.448 20,1 L20,8 L13,8 C12.448,8 12,8.448 12,9 C12,9.552 12.448,10 13,10 L20,10 L20,27 C20,27.552 20.448,28 21,28 C21.552,28 22,27.552 22,27 L22,10 L29,10 C29.552,10 30,9.552 30,9 C30,8.448 29.552,8 29,8 L22,8 L22,1 C22,0.448 21.552,0 21,0 L21,0 Z" id="Shape" fill="#000000"></path>
+        <path d="M35,20 C34.448,20 34,20.448 34,21 L34,26 L29,26 C28.448,26 28,26.448 28,27 C28,27.552 28.448,28 29,28 L34,28 L34,43 C34,43.552 34.448,44 35,44 C35.552,44 36,43.552 36,43 L36,28 L41,28 C41.552,28 42,27.552 42,27 C42,26.448 41.552,26 41,26 L36,26 L36,21 C36,20.448 35.552,20 35,20 L35,20 Z" id="Shape" fill="#000000"></path>
+    </g>
+</svg>

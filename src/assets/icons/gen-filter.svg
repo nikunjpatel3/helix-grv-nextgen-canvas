@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="64px" height="64px" viewBox="0 0 64 64" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 3.7.2 (28276) - http://www.bohemiancoding.com/sketch -->
+    <title>gen-filter</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="64px-Line" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="gen-filter"></g>
+        <path d="M26.293,49.707 L34.293,57.707 C34.484,57.898 34.74,58 35,58 C35.129,58 35.259,57.976 35.383,57.924 C35.757,57.77 36,57.404 36,57 L36,27.414 L55.707,7.707 C55.993,7.421 56.079,6.991 55.924,6.617 C55.769,6.243 55.404,6 55,6 L7,6 C6.596,6 6.231,6.243 6.076,6.617 C5.921,6.991 6.007,7.421 6.293,7.707 L26,27.414 L26,49 C26,49.266 26.105,49.52 26.293,49.707 L26.293,49.707 Z M9.414,8 L52.586,8 L34.293,26.293 C34.105,26.48 34,26.734 34,27 L34,54.586 L28,48.586 L28,27 C28,26.734 27.895,26.48 27.707,26.293 L9.414,8 L9.414,8 Z" id="Shape" fill="#000000"></path>
+    </g>
+</svg>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="64px" height="64px" viewBox="0 0 64 64" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 3.7.2 (28276) - http://www.bohemiancoding.com/sketch -->
+    <title>arr-diagonal-2</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="64px-Line" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="arr-diagonal-2"></g>
+        <path d="M9,40 C8.447,40 8,40.448 8,41 L8,55 C8,55.13 8.027,55.26 8.077,55.382 C8.178,55.627 8.373,55.822 8.618,55.923 C8.74,55.973 8.87,56 9,56 L23,56 C23.553,56 24,55.552 24,55 C24,54.448 23.553,54 23,54 L11.414,54 L54,11.414 L54,23 C54,23.552 54.447,24 55,24 C55.553,24 56,23.552 56,23 L56,9 C56,8.87 55.974,8.74 55.923,8.618 C55.822,8.373 55.627,8.178 55.382,8.077 C55.26,8.027 55.13,8 55,8 L41,8 C40.447,8 40,8.448 40,9 C40,9.552 40.447,10 41,10 L52.586,10 L10,52.586 L10,41 C10,40.448 9.553,40 9,40 L9,40 Z" id="Shape" fill="#000000"></path>
+    </g>
+</svg>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="64px" height="64px" viewBox="0 0 64 64" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 3.7.2 (28276) - http://www.bohemiancoding.com/sketch -->
+    <title>spe-rect-minus</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="64px-Line" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="spe-rect-minus"></g>
+        <path d="M8,48 L15,48 C15.551,48 16,48.449 16,49 L16,57 C16,57.396 16.233,57.754 16.595,57.915 C16.725,57.973 16.863,58 17,58 C17.244,58 17.485,57.911 17.673,57.74 L27.815,48.521 C28.184,48.185 28.662,48 29.16,48 L54,48 C56.206,48 58,46.206 58,44 L58,10 C58,7.794 56.206,6 54,6 L8,6 C5.794,6 4,7.794 4,10 L4,44 C4,46.206 5.794,48 8,48 L8,48 Z M6,10 C6,8.897 6.897,8 8,8 L54,8 C55.103,8 56,8.897 56,10 L56,44 C56,45.103 55.103,46 54,46 L29.16,46 C28.163,46 27.207,46.37 26.469,47.041 L18,54.739 L18,49 C18,47.346 16.654,46 15,46 L8,46 C6.897,46 6,45.103 6,44 L6,10 L6,10 Z" id="Shape" fill="#000000"></path>
+        <path d="M21,28 L41,28 C41.552,28 42,27.552 42,27 C42,26.448 41.552,26 41,26 L21,26 C20.448,26 20,26.448 20,27 C20,27.552 20.448,28 21,28 L21,28 Z" id="Shape" fill="#000000"></path>
+    </g>
+</svg>

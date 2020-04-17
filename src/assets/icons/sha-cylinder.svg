@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="64px" height="64px" viewBox="0 0 64 64" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 3.7.2 (28276) - http://www.bohemiancoding.com/sketch -->
+    <title>sha-cylinder</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="64px-Line" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="sha-cylinder"></g>
+        <path d="M32,8 C17.178,8 6,12.299 6,18 L6,46 C6,51.701 17.178,56 32,56 C46.822,56 58,51.701 58,46 L58,18 C58,12.299 46.822,8 32,8 L32,8 Z M32,10 C46.144,10 56,14.216 56,18 C56,21.784 46.144,26 32,26 C17.856,26 8,21.784 8,18 C8,14.216 17.856,10 32,10 L32,10 Z M32,54 C17.856,54 8,49.784 8,46 L8,21.987 C11.85,25.59 20.903,28 32,28 C43.097,28 52.15,25.59 56,21.987 L56,46 C56,49.784 46.144,54 32,54 L32,54 Z" id="Shape" fill="#000000"></path>
+    </g>
+</svg>

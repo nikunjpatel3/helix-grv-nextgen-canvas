@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="64px" height="64px" viewBox="0 0 64 64" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 3.7.2 (28276) - http://www.bohemiancoding.com/sketch -->
+    <title>spo-rugby-post</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="64px-Line" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="spo-rugby-post"></g>
+        <path d="M48,46 L48,58 C48,59.103 48.897,60 50,60 L52,60 C53.103,60 54,59.103 54,58 L54,46 C54,44.897 53.103,44 52,44 L52,7 C52,6.448 51.553,6 51,6 C50.447,6 50,6.448 50,7 L50,36 L12,36 L12,7 C12,6.448 11.553,6 11,6 C10.447,6 10,6.448 10,7 L10,44 C8.897,44 8,44.897 8,46 L8,58 C8,59.103 8.897,60 10,60 L12,60 C13.103,60 14,59.103 14,58 L14,46 C14,44.897 13.103,44 12,44 L12,38 L50,38 L50,44 C48.897,44 48,44.897 48,46 L48,46 Z M12.001,58 L10,58 L10,46 L12,46 L12.001,58 L12.001,58 Z M52.001,58 L50,58 L50,46 L52,46 L52.001,58 L52.001,58 Z" id="Shape" fill="#000000"></path>
+    </g>
+</svg>

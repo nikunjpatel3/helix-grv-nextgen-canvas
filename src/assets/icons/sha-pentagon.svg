@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="64px" height="64px" viewBox="0 0 64 64" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 3.7.2 (28276) - http://www.bohemiancoding.com/sketch -->
+    <title>sha-pentagon</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="64px-Line" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="sha-pentagon"></g>
+        <path d="M32.625,6.219 C32.26,5.927 31.741,5.927 31.376,6.219 L6.376,26.219 C6.056,26.475 5.924,26.9 6.044,27.292 L15.217,57.292 C15.345,57.712 15.734,58 16.173,58 L47.827,58 C48.266,58 48.655,57.713 48.783,57.292 L57.956,27.292 C58.076,26.9 57.944,26.475 57.624,26.219 L32.625,6.219 L32.625,6.219 Z M47.087,56 L16.912,56 L8.154,27.357 L32,8.281 L55.845,27.357 L47.087,56 L47.087,56 Z" id="Shape" fill="#000000"></path>
+    </g>
+</svg>

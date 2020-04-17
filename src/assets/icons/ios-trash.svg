@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="44px" height="44px" viewBox="0 0 44 44" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 3.7.2 (28276) - http://www.bohemiancoding.com/sketch -->
+    <title>ios-trash</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="44px-Line" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="ios-trash"></g>
+        <rect id="Rectangle-path" fill="#000000" transform="translate(14.514092, 25.022001) rotate(-2.200616) translate(-14.514092, -25.022001) " x="13.5140549" y="12.0130129" width="2.00007505" height="26.0179763"></rect>
+        <rect id="Rectangle-path" fill="#000000" transform="translate(27.515381, 24.979111) rotate(-87.787933) translate(-27.515381, -24.979111) " x="14.5062931" y="23.9790658" width="26.0181766" height="2.00009045"></rect>
+        <rect id="Rectangle-path" fill="#000000" x="20" y="12" width="2" height="25.998"></rect>
+        <path d="M9.007,40.116 C9.282,42.436 10.887,43.997 13,44 L29.001,44 C31.059,43.998 32.737,42.362 32.996,40.089 L35.913,8 L38,8 L38,6 L28,6 L28,4 C28,1.794 26.206,0 24,0 L18,0 C15.794,0 14,1.794 14,4 L14,6 L4,6 L4,8 L6.087,8 L9.007,40.116 L9.007,40.116 Z M31.007,39.885 C30.891,40.903 30.213,41.999 29,42 L13.001,42 C11.706,41.998 11.114,40.904 10.996,39.907 L8.095,8 L33.905,8 L31.007,39.885 L31.007,39.885 Z M16,4 C16,2.897 16.897,2 18,2 L24,2 C25.103,2 26,2.897 26,4 L26,6 L16,6 L16,4 L16,4 Z" id="Shape" fill="#000000"></path>
+    </g>
+</svg>

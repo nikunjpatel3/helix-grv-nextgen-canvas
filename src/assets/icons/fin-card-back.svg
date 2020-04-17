@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="64px" height="64px" viewBox="0 0 64 64" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 3.7.2 (28276) - http://www.bohemiancoding.com/sketch -->
+    <title>fin-card-back</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="64px-Line" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="fin-card-back"></g>
+        <path d="M56,12 L8,12 C5.794,12 4,13.794 4,16 L4,48 C4,50.206 5.794,52 8,52 L56,52 C58.206,52 60,50.206 60,48 L60,16 C60,13.794 58.206,12 56,12 L56,12 Z M6,22 L58,22 L58,28 L6,28 L6,22 L6,22 Z M8,14 L56,14 C57.103,14 58,14.897 58,16 L58,20 L6,20 L6,16 C6,14.897 6.897,14 8,14 L8,14 Z M56,50 L8,50 C6.897,50 6,49.103 6,48 L6,30 L58,30 L58,48 C58,49.103 57.103,50 56,50 L56,50 Z" id="Shape" fill="#000000"></path>
+        <path d="M41,40 L26,40 C25.447,40 25,40.447 25,41 C25,41.553 25.447,42 26,42 L41,42 C41.553,42 42,41.553 42,41 C42,40.447 41.553,40 41,40 L41,40 Z" id="Shape" fill="#000000"></path>
+        <path d="M53,40 L47,40 C46.447,40 46,40.447 46,41 C46,41.553 46.447,42 47,42 L53,42 C53.553,42 54,41.553 54,41 C54,40.447 53.553,40 53,40 L53,40 Z" id="Shape" fill="#000000"></path>
+    </g>
+</svg>

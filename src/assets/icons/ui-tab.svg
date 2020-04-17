@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="64px" height="64px" viewBox="0 0 64 64" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 3.7.2 (28276) - http://www.bohemiancoding.com/sketch -->
+    <title>ui-tab</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="64px-Line" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="ui-tab"></g>
+        <path d="M59,48 L57,48 C56.448,48 56,47.551 56,47 L56,19 C56,16.243 53.757,14 51,14 L35,14 C33.359,14 31.912,14.806 31,16.031 C30.088,14.806 28.641,14 27,14 L11,14 C8.243,14 6,16.243 6,19 L6,47 C6,47.551 5.552,48 5,48 L3,48 C2.447,48 2,48.448 2,49 C2,49.552 2.447,50 3,50 L5,50 C6.654,50 8,48.654 8,47 L8,19 C8,17.346 9.346,16 11,16 L27,16 C28.654,16 30,17.346 30,19 L30,47 C30,48.654 31.346,50 33,50 L57,50 L59,50 C59.553,50 60,49.552 60,49 C60,48.448 59.553,48 59,48 L59,48 Z M32,47 L32,19 C32,17.346 33.346,16 35,16 L51,16 C52.654,16 54,17.346 54,19 L54,47 C54,47.352 54.072,47.686 54.184,48 L33,48 C32.448,48 32,47.551 32,47 L32,47 Z" id="Shape" fill="#000000"></path>
+    </g>
+</svg>

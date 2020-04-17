@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="44px" height="44px" viewBox="0 0 44 44" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 3.7.2 (28276) - http://www.bohemiancoding.com/sketch -->
+    <title>arr-round-out</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="44px-Line" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="arr-round-out"></g>
+        <path d="M43.706,36.292 L37.707,30.293 C37.316,29.902 36.684,29.902 36.293,30.293 C35.902,30.684 35.902,31.316 36.293,31.707 L40.586,36 L18,36 C9.178,36 2,28.822 2,20 C2,11.178 9.178,4 18,4 C26.822,4 34,11.178 34,20 C34,20.552 34.447,21 35,21 C35.553,21 36,20.552 36,20 C36,10.075 27.925,2 18,2 C8.075,2 0,10.075 0,20 C0,29.925 8.075,38 18,38 L40.586,38 L36.293,42.293 C35.902,42.684 35.902,43.316 36.293,43.707 C36.488,43.902 36.744,44 37,44 C37.256,44 37.512,43.902 37.707,43.707 L43.706,37.708 C43.799,37.616 43.872,37.505 43.923,37.382 C44.024,37.138 44.024,36.862 43.923,36.618 C43.872,36.495 43.799,36.385 43.706,36.292 L43.706,36.292 Z" id="Shape" fill="#000000"></path>
+    </g>
+</svg>

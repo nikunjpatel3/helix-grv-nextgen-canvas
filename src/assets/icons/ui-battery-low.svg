@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="44px" height="44px" viewBox="0 0 44 44" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 3.7.2 (28276) - http://www.bohemiancoding.com/sketch -->
+    <title>ui-battery-low</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="44px-Line" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="ui-battery-low"></g>
+        <path d="M27,0 L17,0 C16.448,0 16,0.447 16,1 L16,4 L14,4 C11.794,4 10,5.794 10,8 L10,40 C10,42.206 11.794,44 14,44 L30,44 C32.206,44 34,42.206 34,40 L34,8 C34,5.794 32.206,4 30,4 L28,4 L28,1 C28,0.447 27.552,0 27,0 L27,0 Z M18,2 L26,2 L26,4 L18,4 L18,2 L18,2 Z M32,8 L32,40 C32,41.103 31.103,42 30,42 L14,42 C12.897,42 12,41.103 12,40 L12,8 C12,6.897 12.897,6 14,6 L17,6 L27,6 L30,6 C31.103,6 32,6.897 32,8 L32,8 Z" id="Shape" fill="#000000"></path>
+        <path d="M14,33 L14,39 C14,39.553 14.448,40 15,40 L29,40 C29.552,40 30,39.553 30,39 L30,33 C30,32.447 29.552,32 29,32 L15,32 C14.448,32 14,32.447 14,33 L14,33 Z M16,34 L28,34 L28,38 L16,38 L16,34 L16,34 Z" id="Shape" fill="#000000"></path>
+    </g>
+</svg>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="64px" height="64px" viewBox="0 0 64 64" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 3.7.2 (28276) - http://www.bohemiancoding.com/sketch -->
+    <title>foo-fries</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="64px-Glyph" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="foo-fries" fill="#000000">
+            <polygon id="Fill-195" points="38 30.003 42 30.003 42 14.003 38 14.003"></polygon>
+            <path d="M26,14.003 L30,14.003 L30,11.003 C30,10.45 30.447,10.003 31,10.003 L37,10.003 C37.553,10.003 38,10.45 38,11.003 L38,12.003 L42,12.003 L42,9.003 C42,8.945 42.023,8.895 42.033,8.84 C38.754,7.039 34.998,6.003 31,6.003 C29.281,6.003 27.611,6.206 26,6.566 L26,14.003 Z" id="Fill-196"></path>
+            <polygon id="Fill-197" points="32 30.003 36 30.003 36 12.003 32 12.003"></polygon>
+            <path d="M50,30.003 L53.959,30.003 C53.976,29.671 54,29.34 54,29.003 C54,24.211 52.518,19.764 50,16.077 L50,30.003 Z" id="Fill-198"></path>
+            <polygon id="Fill-199" points="44 30.003 48 30.003 48 10.003 44 10.003"></polygon>
+            <polygon id="Fill-200" points="20 30.003 24 30.003 24 6.003 20 6.003 20 11.003"></polygon>
+            <path d="M8.1918,32.003 L8.2168,32.121 C8.3748,33.28 8.6188,34.412 8.9438,35.51 L14.0228,59.213 C14.1208,59.674 14.5288,60.003 14.9998,60.003 L46.9998,60.003 C47.4718,60.003 47.8788,59.674 47.9778,59.213 L53.0568,35.51 C53.3808,34.412 53.6248,33.28 53.7828,32.121 L53.8078,32.003 L8.1918,32.003 Z" id="Fill-201"></path>
+            <polygon id="Fill-202" points="14 30.003 18 30.003 18 12.003 14 12.003"></polygon>
+            <path d="M12,30.003 L12,16.077 C9.482,19.764 8,24.211 8,29.003 C8,29.34 8.024,29.671 8.04,30.003 L12,30.003 Z" id="Fill-203"></path>
+            <polygon id="Fill-204" points="26 30.003 30 30.003 30 16.003 26 16.003"></polygon>
+        </g>
+    </g>
+</svg>

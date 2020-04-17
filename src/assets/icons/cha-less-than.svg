@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="64px" height="64px" viewBox="0 0 64 64" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 3.7.2 (28276) - http://www.bohemiancoding.com/sketch -->
+    <title>cha-less-than</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="64px-Line" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="cha-less-than"></g>
+        <path d="M31,6 C16.112,6 4,18.112 4,33 C4,47.888 16.112,60 31,60 C45.888,60 58,47.888 58,33 C58,18.112 45.888,6 31,6 L31,6 Z M31,58 C17.215,58 6,46.785 6,33 C6,19.215 17.215,8 31,8 C44.785,8 56,19.215 56,33 C56,46.785 44.785,58 31,58 L31,58 Z" id="Shape" fill="#000000"></path>
+        <path d="M37.895,24.553 C37.648,24.059 37.048,23.859 36.553,24.106 L20.553,32.106 C20.214,32.275 20,32.621 20,33 C20,33.379 20.214,33.725 20.553,33.895 L36.553,41.895 C36.697,41.967 36.849,42 36.999,42 C37.366,42 37.719,41.798 37.895,41.447 C38.142,40.953 37.942,40.352 37.448,40.105 L23.236,33 L37.447,25.895 C37.941,25.647 38.142,25.047 37.895,24.553 L37.895,24.553 Z" id="Shape" fill="#000000"></path>
+    </g>
+</svg>

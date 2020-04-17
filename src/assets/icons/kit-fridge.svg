@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="64px" height="64px" viewBox="0 0 64 64" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 3.7.2 (28276) - http://www.bohemiancoding.com/sketch -->
+    <title>kit-fridge</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="64px-Line" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="kit-fridge"></g>
+        <path d="M20.158,57.915 C20.547,59.12 21.667,60 23,60 C24.302,60 25.402,59.161 25.816,58 L38.185,58 C38.599,59.161 39.699,60 41.001,60 C42.334,60 43.454,59.12 43.843,57.915 C46.198,57.511 48,55.469 48,53 L48,9 C48,6.243 45.757,4 43,4 L21,4 C18.243,4 16,6.243 16,9 L16,53 C16,55.469 17.802,57.511 20.158,57.915 L20.158,57.915 Z M43,56 L21,56 C19.346,56 18,54.654 18,53 L18,24 L46,24 L46,53 C46,54.654 44.654,56 43,56 L43,56 Z M21,6 L43,6 C44.654,6 46,7.346 46,9 L46,22 L18,22 L18,9 C18,7.346 19.346,6 21,6 L21,6 Z" id="Shape" fill="#000000"></path>
+        <path d="M23,18 C23.552,18 24,17.552 24,17 L24,11 C24,10.448 23.552,10 23,10 C22.448,10 22,10.448 22,11 L22,17 C22,17.552 22.448,18 23,18 L23,18 Z" id="Shape" fill="#000000"></path>
+        <path d="M23,28 C22.448,28 22,28.448 22,29 L22,45 C22,45.552 22.448,46 23,46 C23.552,46 24,45.552 24,45 L24,29 C24,28.448 23.552,28 23,28 L23,28 Z" id="Shape" fill="#000000"></path>
+    </g>
+</svg>

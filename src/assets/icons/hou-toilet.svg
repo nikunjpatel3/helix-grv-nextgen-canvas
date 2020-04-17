@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="64px" height="64px" viewBox="0 0 64 64" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 3.7.2 (28276) - http://www.bohemiancoding.com/sketch -->
+    <title>hou-toilet</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="64px-Line" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="hou-toilet"></g>
+        <path d="M9,32 L35,32 C35.6,32 36,31.6 36,31 C36,30.4 35.6,30 35,30 L9,30 C8.4,30 8,30.4 8,31 C8,31.6 8.4,32 9,32 L9,32 Z" id="Shape" fill="#000000"></path>
+        <path d="M27.5,52 C32.2,52 34,59.2 34,59.2 C34.1,59.6 34.5,60 35,60 L55,60 C55.6,60 56,59.6 56,59 L56,35 L56,9 C56,7.3 54.7,6 53,6 L43,6 C41.3,6 40,7.3 40,9 L40,33 C40,33.4 40.1,33.7 40.2,34 L9,34 C8.4,34 8,34.4 8,35 C8,44.4 16.7,52 27.5,52 L27.5,52 Z M54,58 L35.8,58 C35.3,56.6 34.1,53.5 31.8,51.6 C33.5,51.3 35.1,50.8 36.6,50.1 C37.1,49.9 37.3,49.3 37.1,48.8 C36.9,48.3 36.3,48.1 35.8,48.3 C33.3,49.4 30.5,50.1 27.6,50.1 C18.3,50.1 10.8,43.9 10.2,36.1 L43,36.1 L54,36.1 L54,58 L54,58 Z M42,33 L42,9 C42,8.4 42.4,8 43,8 L53,8 C53.6,8 54,8.4 54,9 L54,34 L43,34 C42.4,34 42,33.6 42,33 L42,33 Z" id="Shape" fill="#000000"></path>
+    </g>
+</svg>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="22px" height="22px" viewBox="0 0 22 22" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.2 (67145) - http://www.bohemiancoding.com/sketch -->
+    <title>Path</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M12,0 C18.072,0 23,4.928 23,11 C23,17.072 18.072,22 12,22 C5.928,22 1,17.072 1,11 C1,4.928 5.928,0 12,0 Z M10.4108494,12.6250561 C9.13675453,11.3398634 8.4972365,10.6949161 8.49229536,10.6902142 C8.03510561,10.2551651 7.30674914,10.2678775 6.86546566,10.7186082 L6.82283105,10.7621556 C6.38973963,11.2045188 6.39278132,11.9064595 6.82969061,12.3451586 L10.4108494,15.95 L17.1703094,9.13581278 C17.6098969,8.69442461 17.6098969,7.98725117 17.1703094,7.545863 C17.1260349,7.5014751 17.1021209,7.47756527 17.0985676,7.47413353 C16.6444871,7.03558762 15.9157758,7.04298045 15.4709455,7.49064586 L10.4108494,12.6250561 Z" id="hlx-success-icon-1"></path>
+    </defs>
+    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Icon-/-Check-/-w-Circle-fill" transform="translate(-1.000000, 0.000000)">
+            <mask id="mask-2" fill="white">
+                <use xlink:href="#hlx-success-icon-1"></use>
+            </mask>
+            <use id="↳Color" fill="#fff" xlink:href="#hlx-success-icon-1"></use>
+        </g>
+    </g>
+</svg>

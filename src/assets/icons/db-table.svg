@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="44px" height="44px" viewBox="0 0 44 44" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 3.7.2 (28276) - http://www.bohemiancoding.com/sketch -->
+    <title>db-table</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="44px-Line" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="db-table"></g>
+        <path d="M4,44 L38,44 C40.206,44 42,42.206 42,40 L42,6 C42,3.794 40.206,2 38,2 L4,2 C1.794,2 0,3.794 0,6 L0,40 C0,42.206 1.794,44 4,44 L4,44 Z M20,14 L20,22 L12,22 L12,14 L20,14 L20,14 Z M30,14 L30,22 L22,22 L22,14 L30,14 L30,14 Z M40,14 L40,22 L32,22 L32,14 L40,14 L40,14 Z M12,24 L20,24 L20,32 L12,32 L12,24 L12,24 Z M10,32 L2,32 L2,24 L10,24 L10,32 L10,32 Z M20,34 L20,42 L12,42 L12,34 L20,34 L20,34 Z M22,34 L30,34 L30,42 L22,42 L22,34 L22,34 Z M22,32 L22,24 L30,24 L30,32 L22,32 L22,32 Z M32,24 L40,24 L40,32 L32,32 L32,24 L32,24 Z M10,22 L2,22 L2,14 L10,14 L10,22 L10,22 Z M2,40 L2,34 L10,34 L10,42 L4,42 C2.897,42 2,41.103 2,40 L2,40 Z M38,42 L32,42 L32,34 L40,34 L40,40 C40,41.103 39.103,42 38,42 L38,42 Z M4,4 L38,4 C39.103,4 40,4.897 40,6 L40,12 L2,12 L2,6 C2,4.897 2.897,4 4,4 L4,4 Z" id="Shape" fill="#000000"></path>
+    </g>
+</svg>

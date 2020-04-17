@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="64px" height="64px" viewBox="0 0 64 64" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 3.7.2 (28276) - http://www.bohemiancoding.com/sketch -->
+    <title>cha-more-than-or-equal</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="64px-Line" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="cha-more-than-or-equal"></g>
+        <path d="M31,6 C16.112,6 4,18.112 4,33 C4,47.888 16.112,60 31,60 C45.888,60 58,47.888 58,33 C58,18.112 45.888,6 31,6 L31,6 Z M31,58 C17.215,58 6,46.785 6,33 C6,19.215 17.215,8 31,8 C44.785,8 56,19.215 56,33 C56,46.785 44.785,58 31,58 L31,58 Z" id="Shape" fill="#000000"></path>
+        <path d="M39,42 L23,42 C22.448,42 22,42.448 22,43 C22,43.552 22.448,44 23,44 L39,44 C39.552,44 40,43.552 40,43 C40,42.448 39.552,42 39,42 L39,42 Z" id="Shape" fill="#000000"></path>
+        <path d="M39.447,30.105 L23.447,22.105 C22.952,21.857 22.352,22.059 22.105,22.552 C21.858,23.046 22.058,23.647 22.552,23.894 L36.764,31 L22.553,38.105 C22.059,38.352 21.859,38.953 22.106,39.447 C22.281,39.798 22.634,40 23.002,40 C23.152,40 23.305,39.966 23.448,39.895 L39.448,31.895 C39.787,31.726 40.001,31.379 40.001,31 C40.001,30.621 39.786,30.275 39.447,30.105 L39.447,30.105 Z" id="Shape" fill="#000000"></path>
+    </g>
+</svg>

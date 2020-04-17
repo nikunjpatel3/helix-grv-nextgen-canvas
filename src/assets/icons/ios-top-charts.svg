@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="44px" height="44px" viewBox="0 0 44 44" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 3.7.2 (28276) - http://www.bohemiancoding.com/sketch -->
+    <title>ios-top-charts</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="44px-Line" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="ios-top-charts"></g>
+        <path d="M7.469,6.873 L6.002,2.463 L4.528,6.873 L-0.051,6.873 L3.696,9.625 L2.182,14.165 L5.999,11.366 L9.816,14.165 L8.302,9.625 L12.049,6.873 L7.469,6.873 L7.469,6.873 Z M6,8.835 L5.985,8.824 L5.998,8.786 L6.012,8.827 L6,8.835 L6,8.835 Z" id="Shape" fill="#000000"></path>
+        <path d="M2.183,28.164 L6,25.365 L9.817,28.164 L8.303,23.625 L12.05,20.873 L7.468,20.873 L6.001,16.463 L4.527,20.873 L-0.052,20.873 L3.695,23.625 L2.183,28.164 L2.183,28.164 Z M5.998,22.787 L6.012,22.828 L6,22.835 L5.985,22.824 L5.998,22.787 L5.998,22.787 Z" id="Shape" fill="#000000"></path>
+        <path d="M2.183,42.164 L6,39.365 L9.817,42.164 L8.303,37.625 L12.05,34.873 L7.468,34.873 L6.001,30.463 L4.527,34.873 L-0.052,34.873 L3.695,37.625 L2.183,42.164 L2.183,42.164 Z M5.998,36.787 L6.012,36.827 L6,36.836 L5.985,36.825 L5.998,36.787 L5.998,36.787 Z" id="Shape" fill="#000000"></path>
+        <rect id="Rectangle-path" fill="#000000" x="16" y="36" width="28" height="2"></rect>
+        <rect id="Rectangle-path" fill="#000000" x="16" y="22" width="28" height="2"></rect>
+        <rect id="Rectangle-path" fill="#000000" x="16" y="8" width="28" height="2"></rect>
+    </g>
+</svg>

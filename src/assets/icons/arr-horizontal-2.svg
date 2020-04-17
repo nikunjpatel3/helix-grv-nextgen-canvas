@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="64px" height="64px" viewBox="0 0 64 64" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 3.7.2 (28276) - http://www.bohemiancoding.com/sketch -->
+    <title>arr-horizontal-2</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="64px-Line" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="arr-horizontal-2"></g>
+        <path d="M59,32 L7.414,32 L15.707,23.707 C16.098,23.316 16.098,22.684 15.707,22.293 C15.316,21.902 14.684,21.902 14.293,22.293 L4.293,32.293 C4.201,32.385 4.128,32.496 4.077,32.618 C3.976,32.863 3.976,33.138 4.077,33.382 C4.128,33.504 4.201,33.615 4.293,33.707 L14.293,43.707 C14.488,43.902 14.744,44 15,44 C15.256,44 15.512,43.902 15.707,43.707 C16.098,43.316 16.098,42.684 15.707,42.293 L7.414,34 L59,34 C59.552,34 60,33.552 60,33 C60,32.448 59.552,32 59,32 L59,32 Z" id="Shape" fill="#000000"></path>
+    </g>
+</svg>

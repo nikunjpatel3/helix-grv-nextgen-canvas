@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="64px" height="64px" viewBox="0 0 64 64" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 3.7.2 (28276) - http://www.bohemiancoding.com/sketch -->
+    <title>spo-trophy</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="64px-Line" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="spo-trophy"></g>
+        <path d="M45,6 L17,6 C16.448,6 16,6.448 16,7 L16,10 L5,10 C4.448,10 4,10.448 4,11 C4,16.694 6.548,27.303 16.049,27.967 C16.53,35.455 22.517,41.452 30,41.949 L30,58 L23,58 C22.448,58 22,58.448 22,59 C22,59.552 22.448,60 23,60 L39,60 C39.552,60 40,59.552 40,59 C40,58.448 39.552,58 39,58 L32,58 L32,41.949 C39.483,41.452 45.47,35.454 45.951,27.967 C55.452,27.303 58,16.694 58,11 C58,10.448 57.552,10 57,10 L46,10 L46,7 C46,6.448 45.552,6 45,6 L45,6 Z M6.039,12 L16,12 L16,25.953 C7.577,25.219 6.247,15.256 6.039,12 L6.039,12 Z M31,40 C23.832,40 18,34.168 18,27 L18,8 L44,8 L44,27 C44,34.168 38.168,40 31,40 L31,40 Z M55.961,12 C55.753,15.256 54.423,25.219 46,25.953 L46,12 L55.961,12 L55.961,12 Z" id="Shape" fill="#000000"></path>
+    </g>
+</svg>

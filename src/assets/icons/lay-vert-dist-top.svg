@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="44px" height="44px" viewBox="0 0 44 44" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 3.7.2 (28276) - http://www.bohemiancoding.com/sketch -->
+    <title>lay-vert-dist-top</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="44px-Line" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="lay-vert-dist-top"></g>
+        <path d="M43,26 L35,26 L9,26 L1,26 C0.448,26 0,26.447 0,27 C0,27.553 0.448,28 1,28 L8,28 L8,39 C8,39.553 8.448,40 9,40 L35,40 C35.552,40 36,39.553 36,39 L36,28 L43,28 C43.552,28 44,27.553 44,27 C44,26.447 43.552,26 43,26 L43,26 Z M34,38 L10,38 L10,28 L34,28 L34,38 L34,38 Z" id="Shape" fill="#000000"></path>
+        <path d="M43,4 L29,4 L15,4 L1,4 C0.448,4 0,4.447 0,5 C0,5.553 0.448,6 1,6 L14,6 L14,17 C14,17.553 14.448,18 15,18 L29,18 C29.552,18 30,17.553 30,17 L30,6 L43,6 C43.552,6 44,5.553 44,5 C44,4.447 43.552,4 43,4 L43,4 Z M28,16 L16,16 L16,6 L28,6 L28,16 L28,16 Z" id="Shape" fill="#000000"></path>
+    </g>
+</svg>

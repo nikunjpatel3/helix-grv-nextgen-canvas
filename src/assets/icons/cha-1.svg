@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="64px" height="64px" viewBox="0 0 64 64" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 3.7.2 (28276) - http://www.bohemiancoding.com/sketch -->
+    <title>cha-1</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="64px-Line" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="cha-1"></g>
+        <path d="M31,6 C16.112,6 4,18.112 4,33 C4,47.888 16.112,60 31,60 C45.888,60 58,47.888 58,33 C58,18.112 45.888,6 31,6 L31,6 Z M31,58 C17.215,58 6,46.785 6,33 C6,19.215 17.215,8 31,8 C44.785,8 56,19.215 56,33 C56,46.785 44.785,58 31,58 L31,58 Z" id="Shape" fill="#000000"></path>
+        <path d="M31,22 C30.449,22 30.002,22.445 30,22.995 C29.994,23.499 29.821,26 27,26 C26.448,26 26,26.448 26,27 C26,27.552 26.448,28 27,28 C28.287,28 29.265,27.654 30,27.127 L30,43 C30,43.552 30.448,44 31,44 C31.552,44 32,43.552 32,43 L32,23 L32,22.997 L32,22.994 L32,22.988 L32,22.987 L32,22.987 C31.992,22.44 31.547,22 31,22 L31,22 Z" id="Shape" fill="#000000"></path>
+    </g>
+</svg>

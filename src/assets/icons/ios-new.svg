@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="64px" height="64px" viewBox="0 0 64 64" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 3.7.2 (28276) - http://www.bohemiancoding.com/sketch -->
+    <title>ios-new</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="64px-Line" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="ios-new"></g>
+        <polygon id="Shape" fill="#000000" points="37 20.002 37 18.002 8 18.002 8 56.002 46 56.002 46 27 44 27 44 54.002 10 54.002 10 20.002"></polygon>
+        <polygon id="Shape" fill="#000000" points="49.293 16.293 28 37.586 26.414 36 47.707 14.707 46.293 13.293 24 35.586 24 40 28.414 40 50.707 17.707"></polygon>
+        <path d="M52.703,16.117 L52.707,16.121 L53.414,15.414 C54.194,14.634 54.194,13.366 53.414,12.586 L51.414,10.586 C50.635,9.806 49.365,9.806 48.586,10.586 L47.16,12.012 L51.984,16.836 L52.703,16.117 L52.703,16.117 Z M50,12 L51.996,13.996 L51.984,14.008 L49.988,12.012 L50,12 L50,12 Z" id="Shape" fill="#000000"></path>
+    </g>
+</svg>

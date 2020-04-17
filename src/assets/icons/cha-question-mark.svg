@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="64px" height="64px" viewBox="0 0 64 64" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 3.7.2 (28276) - http://www.bohemiancoding.com/sketch -->
+    <title>cha-question-mark</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="64px-Line" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="cha-question-mark"></g>
+        <path d="M31,6 C16.112,6 4,18.112 4,33 C4,47.888 16.112,60 31,60 C45.888,60 58,47.888 58,33 C58,18.112 45.888,6 31,6 L31,6 Z M31,58 C17.215,58 6,46.785 6,33 C6,19.215 17.215,8 31,8 C44.785,8 56,19.215 56,33 C56,46.785 44.785,58 31,58 L31,58 Z" id="Shape" fill="#000000"></path>
+        <path d="M31,22 C27.14,22 24,24.691 24,28 C24,28.552 24.448,29 25,29 C25.552,29 26,28.552 26,28 C26,25.794 28.243,24 31,24 C33.757,24 36,25.794 36,28 C36,28.767 35.725,29.513 35.213,30.147 C34.806,30.639 34.188,31.177 33.533,31.746 C31.877,33.186 30,34.818 30,36.999 L30,38.999 C30,39.551 30.448,39.999 31,39.999 C31.552,39.999 32,39.551 32,38.999 L32,36.999 C32,35.729 33.511,34.415 34.845,33.255 C35.563,32.63 36.242,32.041 36.761,31.413 C37.572,30.409 38.001,29.228 38.001,27.998 C38,24.691 34.86,22 31,22 L31,22 Z" id="Shape" fill="#000000"></path>
+        <circle id="Oval" fill="#000000" cx="31" cy="44" r="2"></circle>
+    </g>
+</svg>

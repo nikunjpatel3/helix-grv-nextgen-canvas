@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="64px" height="64px" viewBox="0 0 64 64" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 3.7.2 (28276) - http://www.bohemiancoding.com/sketch -->
+    <title>wea-umbrella</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="64px-Line" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="wea-umbrella"></g>
+        <path d="M32,6.025 L32,5 C32,4.448 31.553,4 31,4 C30.447,4 30,4.448 30,5 L30,6.025 C15.574,6.554 4,18.448 4,33 C4,33.552 4.447,34 5,34 L30,34 L30,54 C30,56.206 28.206,58 26,58 C23.794,58 22,56.206 22,54 C22,53.448 21.553,53 21,53 C20.447,53 20,53.448 20,54 C20,57.309 22.691,60 26,60 C29.309,60 32,57.309 32,54 L32,34 L57,34 C57.553,34 58,33.552 58,33 C58,18.448 46.426,6.554 32,6.025 L32,6.025 Z M6.02,32 C6.547,18.677 17.55,8 31,8 C44.45,8 55.453,18.677 55.98,32 L6.02,32 L6.02,32 Z" id="Shape" fill="#000000"></path>
+    </g>
+</svg>

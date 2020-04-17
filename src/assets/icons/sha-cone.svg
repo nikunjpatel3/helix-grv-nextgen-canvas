@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="64px" height="64px" viewBox="0 0 64 64" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 3.7.2 (28276) - http://www.bohemiancoding.com/sketch -->
+    <title>sha-cone</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="64px-Line" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="sha-cone"></g>
+        <path d="M32.848,6.47 C32.665,6.178 32.345,6 32,6 C31.655,6 31.335,6.178 31.152,6.47 L6.808,45.429 C6.799,45.442 6.784,45.449 6.775,45.463 C6.261,46.279 6,47.133 6,48 C6,53.701 17.178,58 32,58 C46.822,58 58,53.701 58,48 C58,47.13 57.738,46.275 57.222,45.46 C57.209,45.439 57.188,45.429 57.173,45.409 L32.848,6.47 L32.848,6.47 Z M32,56 C17.856,56 8,51.784 8,48 C8,47.529 8.152,47.048 8.446,46.57 C8.456,46.556 8.469,46.545 8.478,46.531 L32,8.887 L55.516,46.53 C55.527,46.547 55.545,46.556 55.556,46.572 C55.849,47.048 56,47.528 56,47.999 C56,51.784 46.144,56 32,56 L32,56 Z" id="Shape" fill="#000000"></path>
+    </g>
+</svg>

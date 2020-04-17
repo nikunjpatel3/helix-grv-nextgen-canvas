@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="64px" height="64px" viewBox="0 0 64 64" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 3.7.2 (28276) - http://www.bohemiancoding.com/sketch -->
+    <title>clo-vest</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="64px-Line" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="clo-vest"></g>
+        <path d="M23,6 L19,6 C18.448,6 18,6.448 18,7 L18,19 C18,21.757 15.757,24 13,24 C12.448,24 12,24.448 12,25 L12,57 C12,57.552 12.448,58 13,58 L49,58 C49.552,58 50,57.552 50,57 L50,25 C50,24.448 49.552,24 49,24 C46.243,24 44,21.757 44,19 L44,7 C44,6.448 43.552,6 43,6 L39,6 C38.448,6 38,6.448 38,7 L38,13 C38,16.86 34.86,20 31,20 C27.14,20 24,16.86 24,13 L24,7 C24,6.448 23.552,6 23,6 L23,6 Z M31,22 C35.962,22 40,17.962 40,13 L40,8 L42,8 L42,19 C42,22.521 44.612,25.442 48,25.929 L48,56 L14,56 L14,25.929 C17.388,25.442 20,22.521 20,19 L20,8 L22,8 L22,13 C22,17.962 26.038,22 31,22 L31,22 Z" id="Shape" fill="#000000"></path>
+    </g>
+</svg>

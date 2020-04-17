@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="64px" height="64px" viewBox="0 0 64 64" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 3.7.2 (28276) - http://www.bohemiancoding.com/sketch -->
+    <title>gen-male</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="64px-Line" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="gen-male"></g>
+        <path d="M55.382,8.077 C55.26,8.027 55.13,8 55,8 L43,8 C42.448,8 42,8.448 42,9 C42,9.552 42.448,10 43,10 L52.586,10 L41.102,21.484 C37.37,18.09 32.43,16 27,16 C15.42,16 6,25.42 6,37 C6,48.58 15.42,58 27,58 C38.58,58 48,48.58 48,37 C48,31.57 45.91,26.63 42.516,22.898 L54,11.414 L54,21 C54,21.552 54.448,22 55,22 C55.552,22 56,21.552 56,21 L56,9 C56,8.87 55.973,8.74 55.923,8.618 C55.821,8.374 55.627,8.179 55.382,8.077 L55.382,8.077 Z M27,56 C16.523,56 8,47.477 8,37 C8,26.523 16.523,18 27,18 C37.477,18 46,26.523 46,37 C46,47.477 37.477,56 27,56 L27,56 Z" id="Shape" fill="#000000"></path>
+    </g>
+</svg>

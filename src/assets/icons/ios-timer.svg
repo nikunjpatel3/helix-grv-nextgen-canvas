@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="44px" height="44px" viewBox="0 0 44 44" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 3.7.2 (28276) - http://www.bohemiancoding.com/sketch -->
+    <title>ios-timer</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="44px-Line" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="ios-timer"></g>
+        <path d="M22,2 L20,2 L20,11 L22,11 L22,4 C31.925,4 40,12.075 40,22 C40,31.925 31.925,40 22,40 C12.075,40 4,31.925 4,22 C4,17.191 5.872,12.671 9.271,9.271 L7.857,7.857 C4.08,11.635 2,16.658 2,22 C2,33.028 10.972,42 22,42 C33.028,42 42,33.028 42,22 C42,10.972 33.028,2 22,2 L22,2 Z" id="Shape" fill="#000000"></path>
+        <path d="M22,24.75 C22.735,24.75 23.425,24.464 23.944,23.945 C24.464,23.425 24.75,22.735 24.75,22 C24.75,21.265 24.464,20.574 23.944,20.055 L12.499,12.499 L19.927,23.787 L20.055,23.944 C20.574,24.464 21.265,24.75 22,24.75 L22,24.75 Z" id="Shape" fill="#000000"></path>
+    </g>
+</svg>

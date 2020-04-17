@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="44px" height="44px" viewBox="0 0 44 44" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 3.7.2 (28276) - http://www.bohemiancoding.com/sketch -->
+    <title>typ-serif</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="44px-Glyph" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="typ-serif" fill="#000000">
+            <path d="M43,0 L1,0 C0.447,0 0,0.447 0,1 L0,7 C0,7.553 0.447,8 1,8 C1.553,8 2,7.553 2,7 L2,4 C2,2.897 2.898,2 4,2 L16,2 L16,39 C16,40.654 14.654,42 13,42 C12.447,42 12,42.447 12,43 C12,43.553 12.447,44 13,44 L31,44 C31.553,44 32,43.553 32,43 C32,42.447 31.553,42 31,42 C29.346,42 28,40.654 28,39 L28,2 L40,2 C41.102,2 42,2.897 42,4 L42,7 C42,7.553 42.447,8 43,8 C43.553,8 44,7.553 44,7 L44,1 C44,0.447 43.553,0 43,0" id="Fill-111"></path>
+        </g>
+    </g>
+</svg>

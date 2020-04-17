@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="44px" height="44px" viewBox="0 0 44 44" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 3.7.2 (28276) - http://www.bohemiancoding.com/sketch -->
+    <title>hou-window-round</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="44px-Line" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="hou-window-round"></g>
+        <path d="M21,44 C32.58,44 42,34.58 42,23 C42,11.42 32.58,2 21,2 C9.42,2 0,11.42 0,23 C0,34.58 9.42,44 21,44 L21,44 Z M21,4 C31.477,4 40,12.523 40,23 C40,33.477 31.477,42 21,42 C10.523,42 2,33.477 2,23 C2,12.523 10.523,4 21,4 L21,4 Z" id="Shape" fill="#000000"></path>
+        <path d="M21,40 C30.374,40 38,32.374 38,23 C38,13.626 30.374,6 21,6 C11.626,6 4,13.626 4,23 C4,32.374 11.626,40 21,40 L21,40 Z M6.051,24 L20,24 L20,37.949 C12.528,37.453 6.547,31.472 6.051,24 L6.051,24 Z M22,37.949 L22,24 L35.949,24 C35.453,31.472 29.472,37.453 22,37.949 L22,37.949 Z M35.949,22 L22,22 L22,8.051 C29.472,8.547 35.453,14.528 35.949,22 L35.949,22 Z M20,8.051 L20,22 L6.051,22 C6.547,14.528 12.528,8.547 20,8.051 L20,8.051 Z" id="Shape" fill="#000000"></path>
+    </g>
+</svg>

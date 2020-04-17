@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="64px" height="64px" viewBox="0 0 64 64" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 3.7.2 (28276) - http://www.bohemiancoding.com/sketch -->
+    <title>ui-menu</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="64px-Line" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="ui-menu"></g>
+        <path d="M10,16 L54,16 C56.206,16 58,14.206 58,12 C58,9.794 56.206,8 54,8 L10,8 C7.794,8 6,9.794 6,12 C6,14.206 7.794,16 10,16 L10,16 Z M10,10 L54,10 C55.103,10 56,10.897 56,12 C56,13.103 55.103,14 54,14 L10,14 C8.897,14 8,13.103 8,12 C8,10.897 8.897,10 10,10 L10,10 Z" id="Shape" fill="#000000"></path>
+        <path d="M10,36 L54,36 C56.206,36 58,34.206 58,32 C58,29.794 56.206,28 54,28 L10,28 C7.794,28 6,29.794 6,32 C6,34.206 7.794,36 10,36 L10,36 Z M10,30 L54,30 C55.103,30 56,30.897 56,32 C56,33.103 55.103,34 54,34 L10,34 C8.897,34 8,33.103 8,32 C8,30.897 8.897,30 10,30 L10,30 Z" id="Shape" fill="#000000"></path>
+        <path d="M10,56 L54,56 C56.206,56 58,54.206 58,52 C58,49.794 56.206,48 54,48 L10,48 C7.794,48 6,49.794 6,52 C6,54.206 7.794,56 10,56 L10,56 Z M10,50 L54,50 C55.103,50 56,50.897 56,52 C56,53.103 55.103,54 54,54 L10,54 C8.897,54 8,53.103 8,52 C8,50.897 8.897,50 10,50 L10,50 Z" id="Shape" fill="#000000"></path>
+    </g>
+</svg>

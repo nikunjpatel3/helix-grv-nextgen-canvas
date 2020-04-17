@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="64px" height="64px" viewBox="0 0 64 64" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 3.7.2 (28276) - http://www.bohemiancoding.com/sketch -->
+    <title>sha-hexagon</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="64px-Line" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="sha-hexagon"></g>
+        <path d="M16.113,55.462 C16.286,55.793 16.627,56 17,56 L45,56 C45.373,56 45.714,55.793 45.887,55.462 L57.887,32.462 C58.038,32.172 58.038,31.827 57.887,31.537 L45.887,8.537 C45.714,8.207 45.373,8 45,8 L17,8 C16.627,8 16.286,8.207 16.113,8.538 L4.113,31.538 C3.962,31.828 3.962,32.173 4.113,32.463 L16.113,55.462 L16.113,55.462 Z M17.606,10 L44.394,10 L55.872,32 L44.394,54 L17.606,54 L6.128,32 L17.606,10 L17.606,10 Z" id="Shape" fill="#000000"></path>
+    </g>
+</svg>

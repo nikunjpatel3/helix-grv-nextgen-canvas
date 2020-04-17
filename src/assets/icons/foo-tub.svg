@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="44px" height="44px" viewBox="0 0 44 44" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 3.7.2 (28276) - http://www.bohemiancoding.com/sketch -->
+    <title>foo-tub</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="44px-Line" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="foo-tub"></g>
+        <path d="M1,12 L1.693,12 L6.011,41.146 C6.084,41.636 6.505,42 7,42 L37,42 C37.496,42 37.917,41.637 37.989,41.146 L42.307,12 L43,12 C43.552,12 44,11.552 44,11 L44,3 C44,2.448 43.552,2 43,2 L1,2 C0.448,2 0,2.448 0,3 L0,11 C0,11.552 0.448,12 1,12 L1,12 Z M4.604,18 L22,18 L22,34 L6.974,34 L4.604,18 L4.604,18 Z M36.137,40 L7.863,40 L7.27,36 L23,36 C23.552,36 24,35.552 24,35 L24,17 C24,16.448 23.552,16 23,16 L4.307,16 L3.714,12 L40.284,12 L36.137,40 L36.137,40 Z M2,4 L42,4 L42,10 L2,10 L2,4 L2,4 Z" id="Shape" fill="#000000"></path>
+    </g>
+</svg>

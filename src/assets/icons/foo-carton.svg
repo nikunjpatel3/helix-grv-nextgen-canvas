@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="64px" height="64px" viewBox="0 0 64 64" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 3.7.2 (28276) - http://www.bohemiancoding.com/sketch -->
+    <title>foo-carton</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="64px-Glyph" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="foo-carton" fill="#000000">
+            <polygon id="Fill-81" points="42 18.2388 35.551 26.9788 50 22.0028"></polygon>
+            <polygon id="Fill-82" points="23.4404 11.5396 16.5994 21.8006 32.6074 27.7886 40.0754 17.5196"></polygon>
+            <path d="M42,16.3363 L42,11.0033 C42,10.5863 41.741,10.2133 41.352,10.0663 L25.352,4.0663 C25.043,3.9503 24.698,3.9953 24.431,4.1803 C24.161,4.3683 24,4.6753 24,5.0033 L24,9.6143 L42,16.3363 Z" id="Fill-83"></path>
+            <path d="M34,29.6964 L34,59.6964 L49.352,53.9394 C49.741,53.7934 50,53.4204 50,53.0034 L50,23.6964 L34,29.6964 Z" id="Fill-84"></path>
+            <path d="M32,29.6964 L16,23.7124 L16,53.0034 C16,53.4204 16.259,53.7934 16.648,53.9394 L32,59.6964 L32,29.6964 Z" id="Fill-85"></path>
+        </g>
+    </g>
+</svg>

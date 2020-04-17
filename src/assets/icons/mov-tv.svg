@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="64px" height="64px" viewBox="0 0 64 64" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 3.7.2 (28276) - http://www.bohemiancoding.com/sketch -->
+    <title>vid-tv</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="64px-Line" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="vid-tv"></g>
+        <path d="M56,10 L8,10 C5.794,10 4,11.794 4,14 L4,44 C4,46.206 5.794,48 8,48 L32,48 L32,50.133 L18.858,52.01 C18.312,52.088 17.932,52.594 18.01,53.141 C18.088,53.688 18.593,54.069 19.141,53.989 L33,52.01 L46.858,53.989 C46.906,53.996 46.954,53.999 47.001,53.999 C47.49,53.999 47.918,53.639 47.989,53.141 C48.067,52.594 47.687,52.088 47.141,52.01 L34,50.133 L34,48 L56,48 C58.206,48 60,46.206 60,44 L60,14 C60,11.794 58.206,10 56,10 L56,10 Z M58,44 C58,45.103 57.103,46 56,46 L8,46 C6.897,46 6,45.103 6,44 L6,14 C6,12.897 6.897,12 8,12 L56,12 C57.103,12 58,12.897 58,14 L58,44 L58,44 Z" id="Shape" fill="#000000"></path>
+    </g>
+</svg>

@@ -1,0 +1,41 @@
+{
+  "name": "helix-grv-nextgen-canvas",
+  "version": "0.0.1",
+  "description": "Stencil Component Starter",
+  "main": "dist/index.js",
+  "module": "dist/index.mjs",
+  "es2015": "dist/esm/index.mjs",
+  "es2017": "dist/esm/index.mjs",
+  "types": "dist/types/index.d.ts",
+  "collection": "dist/collection/collection-manifest.json",
+  "collection:main": "dist/collection/index.js",
+  "unpkg": "dist/helix-grv-nextgen-canvas/helix-grv-nextgen-canvas.js",
+  "files": [
+    "dist/",
+    "loader/"
+  ],
+  "scripts": {
+    "build": "stencil build --docs",
+    "start": "stencil build --dev --watch --serve",
+    "test": "stencil test --spec --e2e",
+    "test.watch": "stencil test --spec --e2e --watchAll",
+    "generate": "stencil generate"
+  },
+  "devDependencies": {
+    "@stencil/core": "^1.3.3",
+    "@stencil/sass": "^1.1.1",
+    "@types/jest": "^24.0.18",
+    "@types/puppeteer": "1.19.1",
+    "intersection-observer": "^0.7.0",
+    "jest": "24.8.0",
+    "jest-cli": "24.8.0",
+    "puppeteer": "1.19.0",
+    "rollup-plugin-node-polyfills": "^0.2.1",
+    "sass": "^1.26.3"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "@pfizer/helix-bootstrap": "^1.0.0",
+    "@pfizer/nextgen-web-components": "^3.6.3"
+  }
+}

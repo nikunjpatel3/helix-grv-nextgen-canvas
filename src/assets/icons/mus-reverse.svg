@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="64px" height="64px" viewBox="0 0 64 64" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 3.7.2 (28276) - http://www.bohemiancoding.com/sketch -->
+    <title>mus-reverse</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="64px-Line" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="mus-reverse"></g>
+        <path d="M12,32 C12,33.329 12.657,34.567 13.764,35.315 L43.702,55.271 C44.457,55.754 45.23,56 46.001,56 C48.207,56 50.001,54.206 50.001,52 L50.001,12 C50.001,9.023 46.663,6.834 43.687,8.738 L13.758,28.687 C12.657,29.434 12,30.672 12,32 L12,32 Z M14.873,30.349 L44.779,10.412 C45.213,10.135 45.612,10 46,10 C47.103,10 48,10.897 48,12 L48,52 C48,53.49 46.402,54.626 44.795,53.598 L14.878,33.657 C14.328,33.284 14,32.665 14,32.001 C14,31.337 14.329,30.717 14.873,30.349 L14.873,30.349 Z" id="Shape" fill="#000000"></path>
+    </g>
+</svg>

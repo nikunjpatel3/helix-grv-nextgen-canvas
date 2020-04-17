@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="64px" height="64px" viewBox="0 0 64 64" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 3.7.2 (28276) - http://www.bohemiancoding.com/sketch -->
+    <title>clo-top</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="64px-Line" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="clo-top"></g>
+        <path d="M57,48 C56.448,48 56,48.447 56,49 C56,52.859 52.86,56 49,56 L48,56 L48,11 C48,8.243 45.757,6 43,6 L19,6 C16.243,6 14,8.243 14,11 L14,56 L13,56 C9.14,56 6,52.859 6,49 C6,48.447 5.552,48 5,48 C4.448,48 4,48.447 4,49 C4,53.963 8.038,58 13,58 L49,58 C53.962,58 58,53.963 58,49 C58,48.447 57.552,48 57,48 L57,48 Z M19,8 L43,8 C44.654,8 46,9.346 46,11 L46,42 L16,42 L16,11 C16,9.346 17.346,8 19,8 L19,8 Z M16,44 L46,44 L46,56 L16,56 L16,44 L16,44 Z" id="Shape" fill="#000000"></path>
+    </g>
+</svg>

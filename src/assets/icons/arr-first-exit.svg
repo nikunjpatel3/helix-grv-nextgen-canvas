@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="64px" height="64px" viewBox="0 0 64 64" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 3.7.2 (28276) - http://www.bohemiancoding.com/sketch -->
+    <title>arr-first-exit</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="64px-Line" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="arr-first-exit"></g>
+        <path d="M57,40 C43.215,40 32,28.785 32,15 C32,14.447 31.552,14 31,14 L9.414,14 L17.707,5.707 C18.098,5.316 18.098,4.684 17.707,4.293 C17.316,3.902 16.684,3.902 16.293,4.293 L6.294,14.292 C6.201,14.384 6.128,14.495 6.077,14.618 C5.976,14.862 5.976,15.138 6.077,15.382 C6.128,15.505 6.201,15.615 6.294,15.708 L16.293,25.707 C16.488,25.902 16.744,26 17,26 C17.256,26 17.512,25.902 17.707,25.707 C18.098,25.316 18.098,24.684 17.707,24.293 L9.414,16 L30.018,16 C30.533,30.096 41.904,41.467 56,41.981 L56,59 C56,59.553 56.448,60 57,60 C57.552,60 58,59.553 58,59 L58,41 C58,40.447 57.552,40 57,40 L57,40 Z" id="Shape" fill="#000000"></path>
+    </g>
+</svg>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="44px" height="44px" viewBox="0 0 44 44" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 3.7.2 (28276) - http://www.bohemiancoding.com/sketch -->
+    <title>ios-reply</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="44px-Line" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="ios-reply"></g>
+        <path d="M22,14.01 L22,4.796 L0.322,21.005 L22,36.979 L22,27.997 C22.25,27.996 22.499,27.994 22.747,27.992 C30.048,27.932 36.35,27.892 42.164,36.756 L44,39.555 L44,36.207 C44,21.589 36.801,14.32 22,14.01 L22,14.01 Z M22.732,25.992 C22.16,25.996 21.582,26 21,26 L20,26 L20,33.021 L3.678,20.994 L20,8.79 L20,16 L21,16 C34.159,16 40.861,21.417 41.866,32.981 C35.976,25.895 29.523,25.938 22.732,25.992 L22.732,25.992 Z" id="Shape" fill="#000000"></path>
+    </g>
+</svg>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="64px" height="64px" viewBox="0 0 64 64" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 3.7.2 (28276) - http://www.bohemiancoding.com/sketch -->
+    <title>lay-path-line</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="64px-Line" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="lay-path-line"></g>
+        <path d="M7,58 L11,58 C11.552,58 12,57.552 12,57 L12,53.414 L51.414,14 L55,14 C55.552,14 56,13.552 56,13 L56,9 C56,8.448 55.552,8 55,8 L51,8 C50.448,8 50,8.448 50,9 L50,12.586 L10.586,52 L7,52 C6.448,52 6,52.448 6,53 L6,57 C6,57.552 6.448,58 7,58 L7,58 Z M52,10 L54,10 L54,12 L52,12 L52,10 L52,10 Z M8,54 L10,54 L10,56 L8,56 L8,54 L8,54 Z" id="Shape" fill="#000000"></path>
+    </g>
+</svg>

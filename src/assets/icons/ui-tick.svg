@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="64px" height="64px" viewBox="0 0 64 64" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 3.7.2 (28276) - http://www.bohemiancoding.com/sketch -->
+    <title>ui-tick</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="64px-Line" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="ui-tick"></g>
+        <path d="M18.293,51.707 C18.488,51.902 18.744,52 19,52 C19.256,52 19.512,51.902 19.707,51.707 L57.707,13.707 C58.098,13.316 58.098,12.684 57.707,12.293 C57.316,11.902 56.684,11.902 56.293,12.293 L19,49.586 L5.707,36.293 C5.316,35.902 4.684,35.902 4.293,36.293 C3.902,36.684 3.902,37.316 4.293,37.707 L18.293,51.707 L18.293,51.707 Z" id="Shape" fill="#000000"></path>
+    </g>
+</svg>

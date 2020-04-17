@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="64px" height="64px" viewBox="0 0 64 64" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 3.7.2 (28276) - http://www.bohemiancoding.com/sketch -->
+    <title>sha-triangle</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="64px-Line" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="sha-triangle"></g>
+        <path d="M32.862,8.494 C32.503,7.883 31.497,7.883 31.137,8.494 L4.137,54.494 C3.955,54.804 3.953,55.186 4.132,55.497 C4.311,55.808 4.642,56 5,56 L59,56 C59.358,56 59.689,55.808 59.868,55.497 C60.046,55.185 60.044,54.803 59.863,54.494 L32.862,8.494 L32.862,8.494 Z M6.747,54 L32,10.976 L57.253,54 L6.747,54 L6.747,54 Z" id="Shape" fill="#000000"></path>
+    </g>
+</svg>

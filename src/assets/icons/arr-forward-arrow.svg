@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="64px" height="64px" viewBox="0 0 64 64" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 3.7.2 (28276) - http://www.bohemiancoding.com/sketch -->
+    <title>arr-forward-arrow</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="64px-Line" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="arr-forward-arrow"></g>
+        <path d="M34,60 L53,60 C53.553,60 54,59.552 54,59 C54,58.448 53.553,58 53,58 L34,58 C21.869,58 12,48.131 12,36 C12,23.869 21.869,14 34,14 L50.586,14 L44.293,20.293 C43.902,20.684 43.902,21.316 44.293,21.707 C44.488,21.902 44.744,22 45,22 C45.256,22 45.512,21.902 45.707,21.707 L53.706,13.708 C53.799,13.616 53.872,13.505 53.923,13.382 C54.024,13.138 54.024,12.862 53.923,12.618 C53.872,12.495 53.799,12.385 53.706,12.292 L45.707,4.293 C45.316,3.902 44.684,3.902 44.293,4.293 C43.902,4.684 43.902,5.316 44.293,5.707 L50.586,12 L34,12 C20.767,12 10,22.767 10,36 C10,49.233 20.767,60 34,60 L34,60 Z" id="Shape" fill="#000000"></path>
+    </g>
+</svg>

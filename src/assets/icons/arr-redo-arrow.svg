@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="64px" height="64px" viewBox="0 0 64 64" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 3.7.2 (28276) - http://www.bohemiancoding.com/sketch -->
+    <title>arr-redo-arrow</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="64px-Line" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="arr-redo-arrow"></g>
+        <path d="M58.293,44.293 L52,50.586 L52,34 C52,20.767 41.233,10 28,10 C14.767,10 4,20.767 4,34 L4,53 C4,53.552 4.448,54 5,54 C5.552,54 6,53.552 6,53 L6,34 C6,21.869 15.869,12 28,12 C40.131,12 50,21.869 50,34 L50,50.586 L43.707,44.293 C43.316,43.902 42.684,43.902 42.293,44.293 C41.902,44.684 41.902,45.316 42.293,45.707 L50.293,53.707 C50.385,53.799 50.496,53.872 50.618,53.923 C50.74,53.973 50.87,54 51,54 C51.13,54 51.26,53.973 51.382,53.923 C51.504,53.872 51.615,53.799 51.707,53.707 L59.707,45.707 C60.098,45.316 60.098,44.684 59.707,44.293 C59.316,43.902 58.684,43.902 58.293,44.293 L58.293,44.293 Z" id="Shape" fill="#000000"></path>
+    </g>
+</svg>

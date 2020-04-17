@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="44px" height="44px" viewBox="0 0 44 44" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 3.7.2 (28276) - http://www.bohemiancoding.com/sketch -->
+    <title>typ-align-left</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="44px-Line" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="typ-align-left"></g>
+        <path d="M43,42 L1,42 C0.448,42 0,42.448 0,43 C0,43.552 0.448,44 1,44 L43,44 C43.552,44 44,43.552 44,43 C44,42.448 43.552,42 43,42 L43,42 Z" id="Shape" fill="#000000"></path>
+        <path d="M43,22 L1,22 C0.448,22 0,22.448 0,23 C0,23.552 0.448,24 1,24 L43,24 C43.552,24 44,23.552 44,23 C44,22.448 43.552,22 43,22 L43,22 Z" id="Shape" fill="#000000"></path>
+        <path d="M43,2 L1,2 C0.448,2 0,2.448 0,3 C0,3.552 0.448,4 1,4 L43,4 C43.552,4 44,3.552 44,3 C44,2.448 43.552,2 43,2 L43,2 Z" id="Shape" fill="#000000"></path>
+        <path d="M1,14 L31,14 C31.552,14 32,13.552 32,13 C32,12.448 31.552,12 31,12 L1,12 C0.448,12 0,12.448 0,13 C0,13.552 0.448,14 1,14 L1,14 Z" id="Shape" fill="#000000"></path>
+        <path d="M1,34 L31,34 C31.552,34 32,33.552 32,33 C32,32.448 31.552,32 31,32 L1,32 C0.448,32 0,32.448 0,33 C0,33.552 0.448,34 1,34 L1,34 Z" id="Shape" fill="#000000"></path>
+    </g>
+</svg>

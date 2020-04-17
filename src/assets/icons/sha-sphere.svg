@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="64px" height="64px" viewBox="0 0 64 64" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 3.7.2 (28276) - http://www.bohemiancoding.com/sketch -->
+    <title>sha-sphere</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="64px-Line" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="sha-sphere"></g>
+        <path d="M32,6 C17.663,6 6,17.664 6,32 C6,46.337 17.663,58 32,58 C46.337,58 58,46.337 58,32 C58,17.664 46.337,6 32,6 L32,6 Z M32,56 C18.767,56 8,45.233 8,32 C8,18.767 18.767,8 32,8 C45.233,8 56,18.767 56,32 C56,45.233 45.233,56 32,56 L32,56 Z" id="Shape" fill="#000000"></path>
+        <path d="M32,12 C20.972,12 12,20.972 12,32 C12,32.552 12.447,33 13,33 C13.553,33 14,32.552 14,32 C14,22.075 22.075,14 32,14 C32.553,14 33,13.552 33,13 C33,12.448 32.553,12 32,12 L32,12 Z" id="Shape" fill="#000000"></path>
+    </g>
+</svg>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="64px" height="64px" viewBox="0 0 64 64" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 3.7.2 (28276) - http://www.bohemiancoding.com/sketch -->
+    <title>foo-egg</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="64px-Line" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="foo-egg"></g>
+        <path d="M33,58 C42.441,58 52,50.05 52,34.856 C52,19.572 42.411,4 33,4 C23.589,4 14,19.572 14,34.856 C14,50.05 23.559,58 33,58 L33,58 Z M33,6 C41.262,6 50,20.833 50,34.856 C50,48.737 41.448,56 33,56 C24.552,56 16,48.737 16,34.856 C16,20.833 24.738,6 33,6 L33,6 Z" id="Shape" fill="#000000"></path>
+        <path d="M33,12 C33.553,12 34,11.552 34,11 C34,10.448 33.553,10 33,10 C27.111,10 20,20.691 20,33.967 C20,34.519 20.447,34.967 21,34.967 C21.553,34.967 22,34.519 22,33.967 C22,23.292 27.654,12 33,12 L33,12 Z" id="Shape" fill="#000000"></path>
+    </g>
+</svg>

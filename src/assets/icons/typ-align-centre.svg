@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="44px" height="44px" viewBox="0 0 44 44" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 3.7.2 (28276) - http://www.bohemiancoding.com/sketch -->
+    <title>typ-align-centre</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="44px-Line" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="typ-align-centre"></g>
+        <path d="M43,42 L1,42 C0.448,42 0,42.448 0,43 C0,43.552 0.448,44 1,44 L43,44 C43.552,44 44,43.552 44,43 C44,42.448 43.552,42 43,42 L43,42 Z" id="Shape" fill="#000000"></path>
+        <path d="M43,22 L1,22 C0.448,22 0,22.448 0,23 C0,23.552 0.448,24 1,24 L43,24 C43.552,24 44,23.552 44,23 C44,22.448 43.552,22 43,22 L43,22 Z" id="Shape" fill="#000000"></path>
+        <path d="M43,2 L1,2 C0.448,2 0,2.448 0,3 C0,3.552 0.448,4 1,4 L43,4 C43.552,4 44,3.552 44,3 C44,2.448 43.552,2 43,2 L43,2 Z" id="Shape" fill="#000000"></path>
+        <path d="M37,14 C37.552,14 38,13.552 38,13 C38,12.448 37.552,12 37,12 L7,12 C6.448,12 6,12.448 6,13 C6,13.552 6.448,14 7,14 L37,14 L37,14 Z" id="Shape" fill="#000000"></path>
+        <path d="M37,34 C37.552,34 38,33.552 38,33 C38,32.448 37.552,32 37,32 L7,32 C6.448,32 6,32.448 6,33 C6,33.552 6.448,34 7,34 L37,34 L37,34 Z" id="Shape" fill="#000000"></path>
+    </g>
+</svg>
