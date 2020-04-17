@@ -55,6 +55,10 @@ export class Cards {
   render() {
     return (
       <div class="personalized-cards">
+        <h2>Welcome to demo for Personalized cards</h2>
+        <p>
+        Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industrys standard dummy text ever since the 1500s.
+        </p>
         {this.itemsFiltered.map((item) =>
           <div class="personalized-cards-wrapper">
             <nextgen-card>
