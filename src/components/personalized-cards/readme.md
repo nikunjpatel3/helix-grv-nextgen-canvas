@@ -24,9 +24,7 @@
 
 | Property    | Attribute   | Description | Type                                                | Default            |
 | ----------- | ----------- | ----------- | --------------------------------------------------- | ------------------ |
-| `content`   | `content`   |             | `string`                                            | `''`               |
 | `specialty` | `specialty` |             | `"Always Visible" or "Anatomic/Clinical Pathology"` | `'Always Visible'` |
-| `title`     | `title`     |             | `string`                                            | `''`               |
 
 
 ## Dependencies
