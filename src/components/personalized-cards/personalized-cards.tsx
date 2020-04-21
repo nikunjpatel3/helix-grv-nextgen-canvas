@@ -17,19 +17,23 @@ export class Cards {
   @Watch('specialty')
   filterCards(newValue: string, oldValue: string) {
     if (newValue !== oldValue) {
-      
+
     }
   }
 
   render() {
     return (
       <div class="personalized-cards">
-          <div class="personalized-cards-wrapper">
-            <nextgen-card>
+        <div class="personalized-cards-wrapper">
+          <nextgen-card>
+            <h2 slot="title">
               <slot name="title"></slot>
-              <slot name="body"></slot> 
-            </nextgen-card>
-          </div>
+            </h2>
+            <p slot="body">
+              <slot name="body"></slot>
+            </p>
+          </nextgen-card>
+        </div>
       </div>
     );
   }
