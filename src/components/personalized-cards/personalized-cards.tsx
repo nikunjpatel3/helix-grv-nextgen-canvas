@@ -26,8 +26,8 @@ export class Cards {
       <div class="personalized-cards">
           <div class="personalized-cards-wrapper">
             <nextgen-card>
-              <h2 slot="title">{this.title}</h2>
-              <p slot="body"> {this.content} </p>
+              <slot name="title"></slot>
+              <slot name="body"></slot> 
             </nextgen-card>
           </div>
       </div>
